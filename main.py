@@ -38,7 +38,11 @@ for page in links:
     scores_list = section.find_next('ul')
 
     # Find the unordered lists for each of the rounds
-    all_round_list = section.find_next('ul').find_all('li', recursive=False)[1:]
+    match year:
+        case '2009': # The 2009 page did not have the opening round game listed
+            all_round_list = section.find_next('ul').find_all('li', recursive=False)
+        case _:
+            all_round_list = section.find_next('ul').find_all('li', recursive=False)[1:]    
 
     # Create array that contains each game from each round
     games = []
@@ -50,17 +54,23 @@ for page in links:
             # Clean and strip game line from list
             lines = [li.text.strip().replace(u'\xa0', u' ') for li in region.find_next('ul').find_all('li')]
             for s in lines:
-                # Clean and split the string into winner and loser components
-                parts = re.sub(r'No\.|\| Watch full game|\(OT\)', '', s).split(',')
+                # Different clean and split logic needed due to the inconsistency on the website
+                match year:
+                    case '2014': # Typo on the page in 'No. 7 Texas 87 No. 10 Arizona State 85' has no comma, new logic required for split
+                        parts = re.sub(r'\,|\| Watch full game|\(OT\)', '', s).split('No.')
+                        winner = parts[1].split()
+                        loser = parts[2].split()
+                    case _:
+                        parts = re.sub(r'No\.|\| Watch full game|\(OT\)', '', s).split(',')
+                        winner = parts[0].split()
+                        loser = parts[1].split()
                 
                 # Split the winner component into seed, name, and score
-                winner = parts[0].split()
                 winner_seed = winner[0]
                 winner_name = ' '.join(winner[1:-1])
                 winner_score = winner[-1]
                 
                 # Split the loser component into seed, name, and score
-                loser = parts[1].split()
                 loser_seed = loser[0]
                 loser_name = ' '.join(loser[1:-1])
                 loser_score = loser[-1]
