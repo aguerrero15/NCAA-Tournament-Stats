@@ -1,0 +1,64 @@
+Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
+2019,first_round,1,Duke,85,16,North Dakota State,62
+2019,first_round,2,Michigan State,76,15,Bradley,65
+2019,first_round,3,LSU,79,14,Yale,74
+2019,first_round,4,Virginia Tech,66,13,Saint Louis,52
+2019,first_round,12,Liberty,80,5,Mississippi State,76
+2019,first_round,6,Maryland,79,11,Belmont,77
+2019,first_round,10,Minnesota,86,7,Louisville,76
+2019,first_round,9,UCF,73,8,VCU,58
+2019,first_round,1,Gonzaga,87,16,Fairleigh Dickinson,49
+2019,first_round,2,Michigan,74,15,Montana,55
+2019,first_round,3,Texas Tech,72,14,Northern Kentucky,57
+2019,first_round,4,Florida State,76,13,Vermont,69
+2019,first_round,12,Murray State,83,5,Marquette,64
+2019,first_round,6,Buffalo,91,11,Arizona State,74
+2019,first_round,10,Florida,70,7,Nevada,61
+2019,first_round,9,Baylor,78,8,Syracuse,69
+2019,first_round,1,Virginia,71,16,Gardner-Webb,56
+2019,first_round,2,Tennessee,77,15,Colgate,70
+2019,first_round,3,Purdue,61,14,Old Dominion,48
+2019,first_round,13,UC Irvine,70,4,Kansas State,64
+2019,first_round,12,Oregon,72,5,Wisconsin,54
+2019,first_round,6,Villanova,61,11,Saint Mary's,57
+2019,first_round,10,Iowa,79,7,Temple,72
+2019,first_round,9,Oklahoma,95,8,Ole Miss,72
+2019,first_round,1,North Carolina,88,16,Iona,73
+2019,first_round,2,Kentucky,79,15,Abilene Christian,44
+2019,first_round,3,Houston,84,14,Georgia State,55
+2019,first_round,4,Kansas,87,13,Northeastern,53
+2019,first_round,5,Auburn,78,12,New Mexico State,77
+2019,first_round,11,Ohio State,62,6,Iowa State,59
+2019,first_round,7,Wofford,84,10,Seton Hall,68
+2019,first_round,9,Washington,78,8,Utah State,61
+2019,second_round,1,Duke,77,9,UCF,76
+2019,second_round,2,Michigan State,70,10,Minnesota,50
+2019,second_round,3,LSU,69,6,Maryland,67
+2019,second_round,4,Virginia Tech,67,12,Liberty,58
+2019,second_round,1,Gonzaga,83,9,Baylor,71
+2019,second_round,2,Michigan,64,10,Florida,49
+2019,second_round,3,Texas Tech,78,6,Buffalo,58
+2019,second_round,4,Florida State,90,12,Murray State,62
+2019,second_round,1,Virginia,63,9,Oklahoma,51
+2019,second_round,2,Tennessee,83,10,Iowa,77
+2019,second_round,3,Purdue,87,6,Villanova,61
+2019,second_round,12,Oregon,73,13,UC Irvine,54
+2019,second_round,1,North Carolina,81,9,Washington,59
+2019,second_round,2,Kentucky,62,10,Wofford,56
+2019,second_round,3,Houston,74,11,Ohio State,59
+2019,second_round,5,Auburn,89,4,Kansas,75
+2019,sweet_16,1,Duke,75,4,Virginia Tech,73
+2019,sweet_16,2,Michigan State,80,3,LSU,63
+2019,sweet_16,1,Gonzaga,72,4,Florida State,58
+2019,sweet_16,3,Texas Tech,63,2,Michigan,44
+2019,sweet_16,1,Virginia,53,12,Oregon,49
+2019,sweet_16,3,Purdue,99,2,Tennessee,94
+2019,sweet_16,5,Auburn,97,1,North Carolina,80
+2019,sweet_16,2,Kentucky,62,3,Houston,58
+2019,elite_eight,2,Michigan State,68,1,Duke,67
+2019,elite_eight,3,Texas Tech,75,1,Gonzaga,69
+2019,elite_eight,1,Virginia,80,3,Purdue,75
+2019,elite_eight,5,Auburn,77,2,Kentucky,71
+2019,final_four,1,Virginia,63,5,Auburn,62
+2019,final_four,3,Texas Tech,61,2,Michigan State,51
+2019,championship,1,Virginia,85,3,Texas Tech,77

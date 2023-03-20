@@ -1,0 +1,64 @@
+Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
+2015,first_round,1,Kentucky,79,16,Hampton,56
+2015,first_round,2,Kansas,75,15,New Mexico State,56
+2015,first_round,3,Notre Dame,69,14,Northeastern,65
+2015,first_round,4,Maryland,65,13,Valparaiso,62
+2015,first_round,5,West Virginia,68,12,Buffalo,62
+2015,first_round,6,Butler,56,11,Texas,48
+2015,first_round,7,Wichita State,81,10,Indiana,76
+2015,first_round,8,Cincinnati,66,9,Purdue,65
+2015,first_round,1,Wisconsin,86,16,Coastal Carolina,72
+2015,first_round,2,Arizona,93,15,Texas Southern,72
+2015,first_round,14,Georgia State,57,3,Baylor,56
+2015,first_round,4,North Carolina,67,13,Harvard,65
+2015,first_round,5,Arkansas,56,12,Wofford,53
+2015,first_round,6,Xavier,76,11,Ole Miss,57
+2015,first_round,10,Ohio State,75,7,VCU,72
+2015,first_round,8,Oregon,79,9,Oklahoma State,73
+2015,first_round,1,Villanova,93,16,Lafayette,52
+2015,first_round,2,Virginia,79,15,Belmont,67
+2015,first_round,3,Oklahoma,69,14,Albany,60
+2015,first_round,4,Louisville,57,13,UC Irvine,55
+2015,first_round,5,Northern Iowa,71,12,Wyoming,54
+2015,first_round,11,Dayton,66,No,6 Providence,53
+2015,first_round,7,Michigan State,70,10,Georgia,63
+2015,first_round,8,NC State,66,9,LSU,65
+2015,first_round,1,Duke,85,16,Robert Morris,56
+2015,first_round,2,Gonzaga,86,15,North Dakota State,76
+2015,first_round,14,UAB,60,3,Iowa State,59
+2015,first_round,4,Georgetown,84,13,Eastern Washington,74
+2015,first_round,5,Utah,57,12,Stephen F. Austin,50
+2015,first_round,11,UCLA,60,6,SMU,59
+2015,first_round,7,Iowa,83,10,Davidson,52
+2015,first_round,8,San Diego State,76,9,St. John's,64
+2015,second_round,1,Kentucky,64,8,Cincinnati,51
+2015,second_round,7,Wichita State,78,2,Kansas,65
+2015,second_round,3,Notre Dame,67,6,Butler,64
+2015,second_round,5,West Virginia,69,4,Maryland,59
+2015,second_round,1,Wisconsin,72,8,Oregon,65
+2015,second_round,2,Arizona,73,10,Ohio State,58
+2015,second_round,6,Xavier,75,14,Georgia State,67
+2015,second_round,4,North Carolina,87,5,Arkansas,78
+2015,second_round,8,NC State,71,1,Villanova,68
+2015,second_round,7,Michigan State,60,2,Virginia,54
+2015,second_round,3,Oklahoma,72,11,Dayton,66
+2015,second_round,4,Louisville,66,5,Northern Iowa,53
+2015,second_round,1,Duke,68,8,San Diego State,49
+2015,second_round,2,Gonzaga,87,7,Iowa,68
+2015,second_round,11,UCLA,92,14,UAB,75
+2015,second_round,5,Utah,75,4,Georgetown,64
+2015,sweet_16,1,Kentucky,78,5,West Virginia,39
+2015,sweet_16,3,Notre Dame,81,7,Wichita State,70
+2015,sweet_16,1,Wisconsin,79,4,North Carolina,72
+2015,sweet_16,2,Arizona,68,6,Xavier,60
+2015,sweet_16,4,Louisville,75,8,NC State,65
+2015,sweet_16,7,Michigan State,62,3,Oklahoma,58
+2015,sweet_16,1,Duke,63,5,Utah,57
+2015,sweet_16,2,Gonzaga,74,11,UCLA,62
+2015,elite_eight,1,Kentucky,68,3,Notre Dame,66
+2015,elite_eight,1,Wisconsin,85,2,Arizona,78
+2015,elite_eight,7,Michigan State,76,4,Louisville,70
+2015,elite_eight,1,Duke,66,2,Gonzaga,52
+2015,final_four,1,Duke,81,7,Michigan State,61
+2015,final_four,1,Wisconsin,71,1,Kentucky,64
+2015,championship,1,Duke,68,1,Wisconsin,63

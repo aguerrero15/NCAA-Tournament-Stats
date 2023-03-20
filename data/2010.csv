@@ -1,0 +1,64 @@
+Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
+2010,first_round,1,Kentucky,100,16,East Tennessee State,71
+2010,first_round,2,West Virginia,77,15,Morgan State,50
+2010,first_round,3,New Mexico,62,14,Montana,57
+2010,first_round,4,Wisconsin,53,13,Wofford,49
+2010,first_round,12,Cornell,78,5,Temple,65
+2010,first_round,11,Washington,80,6,Marquette,78
+2010,first_round,10,Missouri,86,7,Clemson,78
+2010,first_round,9,Wake Forest,81,8,Texas,80
+2010,first_round,1,Syracuse,79,16,Vermont,56
+2010,first_round,2,Kansas State,82,15,North Texas,62
+2010,first_round,3,Pittsburgh,89,14,Oakland,66
+2010,first_round,13,Murray State,66,4,Vanderbilt,65
+2010,first_round,5,Butler,77,12,UTEP,59
+2010,first_round,6,Xavier,65,11,Minnesota,54
+2010,first_round,7,BYU,99,10,Florida 92,(2OT)
+2010,first_round,8,Gonzaga,67,9,Florida State,60
+2010,first_round,1,Duke,73,16,Arkansas-Pine Bluff,44
+2010,first_round,2,Villanova,73,15,Robert Morris,70
+2010,first_round,3,Baylor,68,14,Sam Houston State,59
+2010,first_round,4,Purdue,72,13,Siena,64
+2010,first_round,5,Texas A&M,69,12,Utah State,53
+2010,first_round,11,Old Dominion,51,6,Notre Dame,50
+2010,first_round,10,Saint Mary's,80,7,Richmond,71
+2010,first_round,8,California,77,9,Louisville,62
+2010,first_round,1,Kansas,90,16,Lehigh,74
+2010,first_round,2,Ohio State,68,15,UC Santa Barbara,51
+2010,first_round,14,Ohio,97,3,Georgetown,84
+2010,first_round,4,Maryland,89,13,Houston,77
+2010,first_round,5,Michigan State,70,12,New Mexico State,67
+2010,first_round,6,Tennessee,62,11,San Diego State,59
+2010,first_round,10,Georgia Tech,64,7,Oklahoma State,59
+2010,first_round,9,Northern Iowa,69,8,UNLV,66
+2010,second_round,1,Kentucky,90,9,Wake Forest,60
+2010,second_round,2,West Virginia,68,10,Missouri,59
+2010,second_round,11,Washington,82,3,New Mexico,64
+2010,second_round,12,Cornell,87,4,Wisconsin,69
+2010,second_round,1,Syracuse,87,8,Gonzaga,65
+2010,second_round,2,Kansas State,84,7,BYU,72
+2010,second_round,6,Xavier,71,3,Pittsburgh,68
+2010,second_round,5,Butler,54,13,Murray State,52
+2010,second_round,1,Duke,68,8,California,53
+2010,second_round,10,Saint Mary's,75,2,Villanova,68
+2010,second_round,3,Baylor,76,11,Old Dominion,68
+2010,second_round,4,Purdue,63,5,Texas A&M,61
+2010,second_round,9,Northern Iowa,69,1,Kansas,67
+2010,second_round,2,Ohio State,75,10,Georgia Tech,66
+2010,second_round,6,Tennessee,83,14,Ohio,68
+2010,second_round,5,Michigan State,85,4,Maryland,83
+2010,sweet_16,1,Kentucky,62,12,Cornell,45
+2010,sweet_16,2,West Virginia,69,11,Washington,56
+2010,sweet_16,5,Butler,63,1,Syracuse,59
+2010,sweet_16,2,Kansas State,101,6,Xavier 96,(2OT)
+2010,sweet_16,1,Duke,70,4,Purdue,57
+2010,sweet_16,3,Baylor,72,10,Saint Mary's,49
+2010,sweet_16,5,Michigan State,59,9,Northern Iowa,52
+2010,sweet_16,6,Tennessee,76,2,Ohio State,73
+2010,elite_eight,2,West Virginia,73,1,Kentucky,66
+2010,elite_eight,5,Butler,63,2,Kansas State,56
+2010,elite_eight,1,Duke,78,3,Baylor,71
+2010,elite_eight,5,Michigan State,70,6,Tennessee,69
+2010,final_four,1,Duke,78,2,West Virginia,57
+2010,final_four,5,Butler,52,5,Michigan State,50
+2010,championship,1,Duke,61,5,Butler,59

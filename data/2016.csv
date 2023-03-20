@@ -1,0 +1,64 @@
+Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
+2016,first_round,1,North Carolina,83,16,Florida Gulf Coast,67
+2016,first_round,2,Xavier,71,15,Weber State,53
+2016,first_round,14,Stephen F. Austin,70,3,West Virginia,56
+2016,first_round,4,Kentucky,85,13,Stony Brook,57
+2016,first_round,5,Indiana,99,12,Chattanooga,74
+2016,first_round,6,Notre Dame,70,11,Michigan,63
+2016,first_round,7,Wisconsin,47,10,Pittsburgh,43
+2016,first_round,9,Providence,70,8,Southern California,69
+2016,first_round,1,Oregon,91,16,Holy Cross,52
+2016,first_round,2,Oklahoma,82,15,Cal State Bakersfield,68
+2016,first_round,3,Texas A&M,92,14,Green Bay,65
+2016,first_round,4,Duke,93,13,UNC Wilmington,85
+2016,first_round,12,Yale,79,5,Baylor,75
+2016,first_round,11,Northern Iowa,75,6,Texas,72
+2016,first_round,10,VCU,75,7,Oregon State,67
+2016,first_round,8,Saint Joseph's,78,9,Cincinnati,76
+2016,first_round,1,Kansas,105,16,Austin Peay,79
+2016,first_round,2,Villanova,86,15,UNC Asheville,56
+2016,first_round,3,Miami (Fla.),79,14,Buffalo,72
+2016,first_round,13,Hawai'i,77,4,California,66
+2016,first_round,5,Maryland,79,12,South Dakota State,74
+2016,first_round,11,Wichita State,65,6,Arizona,55
+2016,first_round,7,Iowa,72,10,Temple,70
+2016,first_round,9,UConn,74,8,Colorado,67
+2016,first_round,1,Virginia,81,16,Hampton,45
+2016,first_round,15,Middle Tennessee,90,2,Michigan State,81
+2016,first_round,3,Utah,80,14,Fresno State,69
+2016,first_round,4,Iowa State,94,13,Iona,81
+2016,first_round,12,Little Rock,85,5,Purdue 83,(2OT)
+2016,first_round,11,Gonzaga,68,6,Seton Hall,52
+2016,first_round,10,Syracuse,70,7,Dayton,51
+2016,first_round,9,Butler,71,8,Texas Tech,61
+2016,second_round,1,North Carolina,85,9,Providence,66
+2016,second_round,7,Wisconsin,66,2,Xavier,63
+2016,second_round,5,Indiana,73,4,Kentucky,67
+2016,second_round,6,Notre Dame,76,14,Stephen F. Austin,75
+2016,second_round,1,Oregon,69,8,Saint Joseph's,64
+2016,second_round,2,Oklahoma,85,10,VCU,81
+2016,second_round,3,Texas A&M,92,11,Northern Iowa 88,(2OT)
+2016,second_round,4,Duke,71,12,Yale,64
+2016,second_round,1,Kansas,73,9,UConn,61
+2016,second_round,2,Villanova,87,7,Iowa,68
+2016,second_round,3,Miami (Fla.),65,11,Wichita State,57
+2016,second_round,5,Maryland,73,13,Hawai'i,60
+2016,second_round,1,Virginia,77,9,Butler,69
+2016,second_round,11,Gonzaga,82,3,Utah,59
+2016,second_round,4,Iowa State,78,12,Little Rock,61
+2016,second_round,10,Syracuse,75,15,Middle Tennessee,50
+2016,sweet_16,1,North Carolina,101,5,Indiana,86
+2016,sweet_16,6,Notre Dame,61,7,Wisconsin,56
+2016,sweet_16,1,Oregon,82,4,Duke,68
+2016,sweet_16,2,Oklahoma,77,3,Texas A&M,63
+2016,sweet_16,1,Kansas,79,5,Maryland,63
+2016,sweet_16,2,Villanova,92,3,Miami (Fla.),69
+2016,sweet_16,1,Virginia,84,4,Iowa State,71
+2016,sweet_16,10,Syracuse,63,11,Gonzaga,60
+2016,elite_eight,1,North Carolina,88,6,Notre Dame,74
+2016,elite_eight,2,Oklahoma,80,1,Oregon,68
+2016,elite_eight,2,Villanova,64,1,Kansas,59
+2016,elite_eight,10,Syracuse,68,1,Virginia,62
+2016,final_four,1,North Carolina,83,10,Syracuse,66
+2016,final_four,2,Villanova,95,2,Oklahoma,51
+2016,championship,2,Villanova,77,1,North Carolina,74
