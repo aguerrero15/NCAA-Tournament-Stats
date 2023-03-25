@@ -13,7 +13,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2010,first_round,13,Murray State,66,4,Vanderbilt,65
 2010,first_round,5,Butler,77,12,UTEP,59
 2010,first_round,6,Xavier,65,11,Minnesota,54
-2010,first_round,7,BYU,99,10,Florida 92,(2OT)
+2010,first_round,7,BYU,99,10,Florida,92
 2010,first_round,8,Gonzaga,67,9,Florida State,60
 2010,first_round,1,Duke,73,16,Arkansas-Pine Bluff,44
 2010,first_round,2,Villanova,73,15,Robert Morris,70
@@ -50,7 +50,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2010,sweet_16,1,Kentucky,62,12,Cornell,45
 2010,sweet_16,2,West Virginia,69,11,Washington,56
 2010,sweet_16,5,Butler,63,1,Syracuse,59
-2010,sweet_16,2,Kansas State,101,6,Xavier 96,(2OT)
+2010,sweet_16,2,Kansas State,101,6,Xavier,96
 2010,sweet_16,1,Duke,70,4,Purdue,57
 2010,sweet_16,3,Baylor,72,10,Saint Mary's,49
 2010,sweet_16,5,Michigan State,59,9,Northern Iowa,52

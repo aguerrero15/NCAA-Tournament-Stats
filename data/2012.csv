@@ -40,7 +40,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2012,second_round,3,Marquette,62,6,Murray State,53
 2012,second_round,4,Louisville,59,5,New Mexico,56
 2012,second_round,1,Kentucky,87,8,Iowa State,71
-2012,second_round,7,Xavier,70,15,Lehigh,58
+2012,second_round,10,Xavier,70,15,Lehigh,58
 2012,second_round,3,Baylor,80,11,Colorado,63
 2012,second_round,4,Indiana,63,12,VCU,61
 2012,second_round,1,North Carolina,87,8,Creighton,73
@@ -52,7 +52,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2012,sweet_16,4,Louisville,57,1,Michigan State,44
 2012,sweet_16,7,Florida,68,3,Marquette,58
 2012,sweet_16,1,Kentucky,102,4,Indiana,90
-2012,sweet_16,3,Baylor,75,7,Xavier,70
+2012,sweet_16,3,Baylor,75,10,Xavier,70
 2012,sweet_16,1,North Carolina,73,13,Ohio,65
 2012,sweet_16,2,Kansas,60,11,NC State,57
 2012,elite_eight,2,Ohio State,77,1,Syracuse,70

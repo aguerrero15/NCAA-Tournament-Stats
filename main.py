@@ -57,11 +57,11 @@ for page in links:
                 # Different clean and split logic needed due to the inconsistency on the website
                 match year:
                     case '2014': # Typo on the page in 'No. 7 Texas 87 No. 10 Arizona State 85' has no comma, new logic required for split
-                        parts = re.sub(r'\,|\| Watch full game|\(OT\)', '', s).split('No.')
+                        parts = re.sub(r'\,|\| Watch full game|\| Watch the full game|\(OT\)|\(2OT\)', '', s).split('No.')
                         winner = parts[1].split()
                         loser = parts[2].split()
                     case _:
-                        parts = re.sub(r'No\.|\| Watch full game|\(OT\)', '', s).split(',')
+                        parts = re.sub(r'No\.|No |\| Watch full game|\| Watch the full game|\(OT\)|\(2OT\)', '', s).split(',')
                         winner = parts[0].split()
                         loser = parts[1].split()
                 
@@ -80,6 +80,15 @@ for page in links:
         
     # Set the last game of the Final Four as the championship game
     games[-1][1] = 'championship'
+
+    # Misc. typos that need to be manually due to missing data
+    match year:
+        case '2018': # Missing loser score from from second_round Gonzaga v. Ohio State
+            games[39] = [2018,'second_round',4,'Gonzaga',90,5,'Ohio State',84]
+        case '2017': # Missing loser seed from first_round North Carolina v. Texas Southern
+            games[16] = [2017,'first_round',1,'North Carolina',103,16,'Texas Southern',64]
+        case '2009': # Missing loser seed from first_round UConn v. Chattanooga
+            games[24] = [2009,'first_round',1,'UConn',103,16,'Chattanooga',47]
 
     # Create a pandas dataframe from the table rows
     df = pd.DataFrame(games, columns=['Year', 'Round', 'Winner Seed', 'Winner Name', 'Winner Score', 'Loser Seed', 'Loser Name', 'Loser Score'])

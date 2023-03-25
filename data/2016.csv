@@ -27,7 +27,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2016,first_round,15,Middle Tennessee,90,2,Michigan State,81
 2016,first_round,3,Utah,80,14,Fresno State,69
 2016,first_round,4,Iowa State,94,13,Iona,81
-2016,first_round,12,Little Rock,85,5,Purdue 83,(2OT)
+2016,first_round,12,Little Rock,85,5,Purdue,83
 2016,first_round,11,Gonzaga,68,6,Seton Hall,52
 2016,first_round,10,Syracuse,70,7,Dayton,51
 2016,first_round,9,Butler,71,8,Texas Tech,61
@@ -37,7 +37,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2016,second_round,6,Notre Dame,76,14,Stephen F. Austin,75
 2016,second_round,1,Oregon,69,8,Saint Joseph's,64
 2016,second_round,2,Oklahoma,85,10,VCU,81
-2016,second_round,3,Texas A&M,92,11,Northern Iowa 88,(2OT)
+2016,second_round,3,Texas A&M,92,11,Northern Iowa,88
 2016,second_round,4,Duke,71,12,Yale,64
 2016,second_round,1,Kansas,73,9,UConn,61
 2016,second_round,2,Villanova,87,7,Iowa,68

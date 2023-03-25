@@ -18,7 +18,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2011,second_round,1,Kansas,72,16,Boston University,53
 2011,second_round,2,Notre Dame,69,15,Akron,56
 2011,second_round,3,Purdue,65,14,Saint Peter's,43
-2011,second_round,13,Morehead State,62,4,Louisville 61 | Watch the full,game
+2011,second_round,13,Morehead State,62,4,Louisville,61
 2011,second_round,12,Richmond,69,5,Vanderbilt,66
 2011,second_round,11,VCU,74,6,Georgetown,56
 2011,second_round,10,Florida State,57,7,Texas A&M,50
@@ -36,7 +36,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2011,third_round,11,Marquette,66,3,Syracuse,62
 2011,third_round,4,Kentucky,71,5,West Virginia,73
 2011,third_round,1,Duke,73,8,Michigan,71
-2011,third_round,2,San Diego State,71,7,Temple 64,(2OT)
+2011,third_round,2,San Diego State,71,7,Temple,64
 2011,third_round,3,UConn,69,6,Cincinnati,58
 2011,third_round,5,Arizona,70,4,Texas,69
 2011,third_round,1,Kansas,73,9,Illinois,59
@@ -47,17 +47,17 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2011,third_round,2,Florida,73,7,UCLA,65
 2011,third_round,3,BYU,89,11,Gonzaga,67
 2011,third_round,4,Wisconsin,70,5,Kansas State,65
-2011,sweet_16,4,Kentucky,62,1,Ohio State 60 | Watch the full,game
+2011,sweet_16,4,Kentucky,62,1,Ohio State,60
 2011,sweet_16,2,North Carolina,81,11,Marquette,63
 2011,sweet_16,5,Arizona,93,1,Duke,77
-2011,sweet_16,3,UConn,74,2,San Diego State 67 | Watch the full,game
+2011,sweet_16,3,UConn,74,2,San Diego State,67
 2011,sweet_16,1,Kansas,77,12,Richmond,57
 2011,sweet_16,11,VCU,72,10,Florida State,71
 2011,sweet_16,8,Butler,61,4,Wisconsin,54
 2011,sweet_16,2,Florida,83,3,BYU,74
 2011,elite_eight,4,Kentucky,76,2,North Carolina,69
 2011,elite_eight,3,UConn,65,5,Arizona,63
-2011,elite_eight,11,VCU,71,1,Kansas 61 | Watch the full,game
+2011,elite_eight,11,VCU,71,1,Kansas,61
 2011,elite_eight,8,Butler,74,2,Florida,71
 2011,final_four,3,UConn,56,4,Kentucky,55
 2011,final_four,8,Butler,70,11,VCU,62

@@ -8,7 +8,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2009,first_round,7,Texas,76,10,Minnesota,62
 2009,first_round,2,Duke,86,15,Binghamton,62
 2009,first_round,1,Louisville,74,16,Morehead State,54
-2009,first_round,9,Siena,74,8,Ohio State 72,(2OT)
+2009,first_round,9,Siena,74,8,Ohio State,72
 2009,first_round,12,Arizona,84,5,Utah,71
 2009,first_round,13,Cleveland State,84,4,Wake Forest,69
 2009,first_round,11,Dayton,68,6,West Virginia,60
@@ -23,7 +23,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2009,first_round,3,Syracuse,59,14,Stephen F. Austin,44
 2009,first_round,10,Michigan,62,7,Clemson,59
 2009,first_round,2,Oklahoma,82,15,Morgan State,54
-2009,first_round,1,UConn,103,Chattanooga,,47
+2009,first_round,1,UConn,103,16,Chattanooga,47
 2009,first_round,9,Texas A&M,79,8,BYU,66
 2009,first_round,5,Purdue,61,12,Northern Iowa,56
 2009,first_round,4,Washington,71,13,Mississippi State,58
