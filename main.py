@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 url = 'https://www.ncaa.com/basketball-men/d1/every-ncaa-bracket-1939-today-tournament-stats-records'
 
 # Send a GET request to the URL
-response = requests.get(url)
+response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
 
 # Parse the HTML content using BeautifulSoup of the main page
 soup = BeautifulSoup(response.content, 'html.parser')
@@ -20,7 +20,7 @@ for link in soup.find_all('a', href=True):
         year = link.get('href').split('/')[-1][:4]
         links.append({"year": year, "url":link.get('href')})
 
-#Go through every year and link until the 2006 tournament
+# Go through every year and link until the 2006 tournament
 for page in links:
     year = page['year']
     url = page['url']
