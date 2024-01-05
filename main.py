@@ -13,12 +13,18 @@ response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
 # Parse the HTML content using BeautifulSoup of the main page
 soup = BeautifulSoup(response.content, 'html.parser')
 
-# Find all the links and save the year
+# Find all the links from 2006-2019 and include the year
 links = []
 for link in soup.find_all('a', href=True):
     if link.text.startswith('Click or tap here'):
         year = link.get('href').split('/')[-1][:4]
         links.append({"year": year, "url":link.get('href')})
+
+# Manually add the links for 2021-2023 since they were not included on the original page
+# There was no tournament during 2020
+links.append({"year": '2021', "url": r"https://www.ncaa.com/news/basketball-men/article/2022-07-20/2021-ncaa-bracket-scores-stats-records-march-madness-mens-tournament"})
+links.append({"year": '2022', "url": r"https://www.ncaa.com/news/basketball-men/article/2022-07-12/2022-ncaa-bracket-mens-march-madness-scores-stats-records"})
+links.append({"year": '2023', "url": r"https://www.ncaa.com/news/basketball-men/article/2023-04-18/2023-ncaa-bracket-scores-stats-march-madness-mens-tournament"})
 
 # Go through every year and link until the 2006 tournament
 for page in links:
@@ -32,7 +38,7 @@ for page in links:
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Find the section for the Scores
-    section = soup.find_all('h2')[2]
+    section = soup.find_all('h2')[2] if year != '2023' else soup.find_all('h3')[8] # Different formarting used 2023
 
     # Find the scores list within the section
     scores_list = section.find_next('ul')
@@ -61,7 +67,7 @@ for page in links:
                         winner = parts[1].split()
                         loser = parts[2].split()
                     case _:
-                        parts = re.sub(r'No\.|No |\| Watch full game|\| Watch the full game|\(OT\)|\(2OT\)', '', s).split(',')
+                        parts = re.sub(r'No\.|No |\| Watch full game|\| Watch the highlights|\| Watch the highlights\'|\| Watch the full game|\(OT\)|\(2OT\)', '', s).split(',')
                         winner = parts[0].split()
                         loser = parts[1].split()
                 
@@ -83,7 +89,26 @@ for page in links:
 
     # Misc. typos that need to be manually due to missing data
     match year:
-        case '2018': # Missing loser score from from second_round Gonzaga v. Ohio State
+        case '2023':
+            # Fixed loser score from first_round Miami v. Drake
+            games[2] = [2023,'first_round',5,'Miami (FL)',63,12,'Drake',56]
+
+            # Fixed loser score due to addtional apostrophe
+            games[54] = [2023,'sweet_16',5,'San Diego St.',71,1,'Alabama',64]
+
+            # Fixed the championship game due to the change in formating
+            for i in range(7):
+                games.pop()
+            games.append([2023,'championship',4,'UConn',76,5,'San Diego St.',59])
+
+        case '2021': 
+            # Missing loser score from first_round Florida St. v. UNC Greensboro
+            games[19] = [2021, 'first_round',4,'Florida St.',64,13,'UNC Greensboro',54]
+
+            # Removed Oregon v. VCU due to no-contest
+            games.pop(14)
+
+        case '2018': # Missing loser score from second_round Gonzaga v. Ohio State
             games[39] = [2018,'second_round',4,'Gonzaga',90,5,'Ohio State',84]
         case '2017': # Missing loser seed from first_round North Carolina v. Texas Southern
             games[16] = [2017,'first_round',1,'North Carolina',103,16,'Texas Southern',64]
