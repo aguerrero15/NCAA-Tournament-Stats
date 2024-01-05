@@ -1,0 +1,63 @@
+Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
+2021,first_round,1,Illinois,78,16,Drexel,49
+2021,first_round,8,Loyola Chicago,71,9,Georgia Tech,60
+2021,first_round,12,Oregon St.,70,Tennessee,,56
+2021,first_round,4,Oklahoma St.,69,13,Liberty,60
+2021,first_round,11,Syracuse,78,6,San Diego St.,62
+2021,first_round,3,West Virginia,84,14,Morehead St.,67
+2021,first_round,10,Rutgers,60,7,Clemson,56
+2021,first_round,2,Houston,87,15,Cleveland St.,56
+2021,first_round,1,Gonzaga,98,16,Norfolk St.,55
+2021,first_round,8,Oklahoma,72,9,Missouri,68
+2021,first_round,5,Creighton,63,12,UCSB,62
+2021,first_round,13,Ohio,62,4,Virginia,58
+2021,first_round,6,USC,72,11,Drake,56
+2021,first_round,3,Kansas,93,14,Eastern Wash.,84
+2021,first_round,2,Iowa,86,15,Grand Canyon,74
+2021,first_round,1,Michigan,82,16,Texas Southern,66
+2021,first_round,8,LSU,76,9,St. Bonaventure,61
+2021,first_round,5,Colorado,96,12,Georgetown,73
+2021,first_round,4,Florida St.,64,13,UNC Greensboro,54
+2021,first_round,11,UCLA,73,6,BYU,62
+2021,first_round,14,Abilene Christian,53,3,Texas,52
+2021,first_round,10,Maryland,63,7,UConn,54
+2021,first_round,2,Alabama,68,15,Iona,55
+2021,first_round,1,Baylor,79,16,Hartford,55
+2021,first_round,9,Wisconsin,85,8,North Carolina,62
+2021,first_round,5,Villanova,73,12,Winthrop,63
+2021,first_round,13.,North Texas,78,4,Purdue,69
+2021,first_round,6,Texas Tech,65,11,Utah St.,53
+2021,first_round,3,Arkansas,85,14,Colgate,68
+2021,first_round,7,Florida,75,10,Virginia Tech,70
+2021,first_round,15,Oral Roberts,75,2,Ohio State,72
+2021,second_round,8,Loyola Chi.,71,1,Illinois,58
+2021,second_round,12,Oregon St.,80,4,Oklahoma St.,70
+2021,second_round,11,Syracuse,75,3,West Virginia,72
+2021,second_round,2,Houston,63,10,Rutgers,60
+2021,second_round,1,Gonzaga,87,8,Oklahoma,71
+2021,second_round,5,Creighton,72,13,Ohio,58
+2021,second_round,6,USC,85,3,Kansas,51
+2021,second_round,7,Oregon,95,2,Iowa,80
+2021,second_round,1,Michigan,86,8,LSU,78
+2021,second_round,5,Colorado,53,4,Florida St.,71
+2021,second_round,11,UCLA,67,14,Abilene Christian,47
+2021,second_round,2,Alabama,96,10,Maryland,77
+2021,second_round,1,Baylor,76,9,Wisconsin,63
+2021,second_round,5,Villanova,84,13,North Texas,61
+2021,second_round,3,Arkansas,68,6,Texas Tech,66
+2021,second_round,15,Oral Roberts,81,7,Florida,78
+2021,sweet_16,12,Oregon St.,65,8,Loyola Chi.,58
+2021,sweet_16,2,Houston,62,11,Syracuse,46
+2021,sweet_16,1,Gonzaga,83,5,Creighton,65
+2021,sweet_16,6,USC,82,7,Oregon,68
+2021,sweet_16,1,Michigan,76,4,Florida St.,58
+2021,sweet_16,11,UCLA,88,2,Alabama,78
+2021,sweet_16,1,Baylor,62,5,Villanova,51
+2021,sweet_16,3,Arkansas,72,15,Oral Roberts,70
+2021,elite_eight,2,Houston,67,12,Oregon St.,61
+2021,elite_eight,1,Gonzaga,85,6,USC,66
+2021,elite_eight,11,UCLA,51,1,Michigan,49
+2021,elite_eight,1,Baylor,81,3,Arkansas,72
+2021,final_four,1,Baylor,78,2,Houston,59
+2021,final_four,1,Gonzaga,93,11,UCLA,90
+2021,championship,1,Baylor,86,1,Gonzaga,70
