@@ -6,9 +6,10 @@ from bs4 import BeautifulSoup
 
 # The URL of the NCAA page
 url = 'https://www.ncaa.com/basketball-men/d1/every-ncaa-bracket-1939-today-tournament-stats-records'
+headers = {'User-Agent': 'Mozilla/5.0'}
 
 # Send a GET request to the URL
-response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
+response = requests.get(url, headers)
 
 # Parse the HTML content using BeautifulSoup of the main page
 soup = BeautifulSoup(response.content, 'html.parser')
@@ -32,7 +33,7 @@ for page in links:
     url = page['url']
 
     # Send a GET request to the URL
-    response = requests.get(url)
+    response = requests.get(url, headers)
 
     # Parse the HTML content using BeautifulSoup of the bracket page
     soup = BeautifulSoup(response.content, 'html.parser')
