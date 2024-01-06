@@ -103,8 +103,14 @@ for page in links:
             games.append([2023,'championship',4,'UConn',76,5,'San Diego St.',59])
 
         case '2021': 
+            # Missing loser seed from first round Oregon St. v. Tennessee
+            games[2] = [2021,'first_round',12,'Oregon St.',70,5,'Tennessee',56]
+
             # Missing loser score from first_round Florida St. v. UNC Greensboro
             games[19] = [2021, 'first_round',4,'Florida St.',64,13,'UNC Greensboro',54]
+
+            # Fixed winner score due to misc period
+            games[27] = [2021,'first_round',13,'North Texas',78,4,'Purdue',69]
 
             # Removed Oregon v. VCU due to no-contest
             games.pop(14)

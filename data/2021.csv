@@ -1,7 +1,7 @@
 Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Score
 2021,first_round,1,Illinois,78,16,Drexel,49
 2021,first_round,8,Loyola Chicago,71,9,Georgia Tech,60
-2021,first_round,12,Oregon St.,70,Tennessee,,56
+2021,first_round,12,Oregon St.,70,5,Tennessee,56
 2021,first_round,4,Oklahoma St.,69,13,Liberty,60
 2021,first_round,11,Syracuse,78,6,San Diego St.,62
 2021,first_round,3,West Virginia,84,14,Morehead St.,67
@@ -25,7 +25,7 @@ Year,Round,Winner Seed,Winner Name,Winner Score,Loser Seed,Loser Name,Loser Scor
 2021,first_round,1,Baylor,79,16,Hartford,55
 2021,first_round,9,Wisconsin,85,8,North Carolina,62
 2021,first_round,5,Villanova,73,12,Winthrop,63
-2021,first_round,13.,North Texas,78,4,Purdue,69
+2021,first_round,13,North Texas,78,4,Purdue,69
 2021,first_round,6,Texas Tech,65,11,Utah St.,53
 2021,first_round,3,Arkansas,85,14,Colgate,68
 2021,first_round,7,Florida,75,10,Virginia Tech,70
